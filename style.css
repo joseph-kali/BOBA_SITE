@@ -1,0 +1,8 @@
+body {
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(202, 0, 0, 0.59);
+    color: darkblue;
+    border-image-width: 5px; 
+    background-image: 200px;
+}
